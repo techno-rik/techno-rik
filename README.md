@@ -1,37 +1,18 @@
-# Hi there, I'm Rikson Pinto! 👋  
+# 💫 About Me:
+🔭 I’m currently working on developing Spring Boot applications,<br>👯 I’m looking to collaborate on open source projects related to my skill set<br>🤝 I’m looking for help with learning more about devOps/ devSecOps and cloud<br>🌱 I’m currently learning automation testing with Selenium<br>💬 Ask me about my projects using java frameworks and spring Boot applications <br>⚡ Fun fact, a dev geek by day and a savvy gamer by night
 
-🚀 **Full Stack Developer | DevOps Enthusiast | Tech Explorer**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rikson-pinto)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/techno-rik)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300BFFF?style=flat&logo=react)](your-portfolio-link-here)  
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@techno-rik) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rikson pinto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rikson Pinto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riksonpinto9611@gmail,com) 
 
-## 🔥 About Me  
-I'm a passionate **Full Stack Developer** skilled in **Java, JavaScript, React, Spring Boot, MySQL, and DevOps tools like Docker, Jenkins, and AWS**.  
-I love building scalable web apps, optimizing performance, and automating deployments.  
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=techno-rik&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=techno-rik&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=techno-rik&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-💡 I believe in **continuous learning** and exploring **cutting-edge tech**.  
+---
+[![](https://visitcount.itsvg.in/api?id=techno-rik&icon=0&color=9)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack  
-### 💻 Programming & Development  
-- **Languages:** Java, JavaScript, Python  
-- **Front-end:** React.js, HTML, CSS  
-- **Back-end:** Spring Boot, Django, JDBC, Hibernate  
-- **Databases:** MySQL, MongoDB  
-
-### ⚙️ DevOps & Tools  
-- **Version Control:** Git, GitHub  
-- **CI/CD:** Jenkins, Terraform, Ansible  
-- **Cloud & Containers:** AWS EC2, Docker  
-- **Testing:** Selenium  
-
-## 🚀 Featured Projects  
-🔹 **[SalesSavvy](https://github.com/your-repo-link)** (E-commerce platform)  
-🔹 **[Meal Mate](https://github.com/your-repo-link)** (Food delivery system)  
-🔹 **[CI/CD Pipeline & Docker Web Server](https://github.com/your-repo-link)**  
-
-## 📈 GitHub Stats  
-![Rikson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techno-rik&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techno-rik&layout=compact&theme=radical)  
-
-💬 Let's connect and build something amazing!  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
